@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "title": "Eighties VJ",
+      "url": "https://media.istockphoto.com/videos/s-synthwave-space-video-id866644926?b=1&k=6&m=866644926&s=192x192&h=NY-kOwIUrccX9P2yFwZ5A6EOi9-D-QP5t7xVNLTo3yI=",
+      "video_id": 1
+    },
+    {
+      "id": 2,
+      "title": "DNA",
+      "url": "https://media.istockphoto.com/videos/double-helix-rotating-against-a-black-background-seamless-looping-video-id1198492156?b=1&k=6&m=1198492156&s=192x192&h=6nH5aiPNflvQu0gTuOUSlfTBFQqy-wuPBCUzYDB7qNg=",
+      "video_id": 2
+    },
+    {
+      "id": 3,
+      "title": "Embossed Circles",
+      "url": "https://media.istockphoto.com/videos/beautiful-white-circles-on-surface-moving-in-seamless-3d-animation-video-id965580846?b=1&k=6&m=965580846&s=192x192&h=cvN_OqdEAbRUO9pNDw_o86ztOxTK0PK0_qsHtfVJvw0=",
+      "video_id": 3
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "url": "https://media.istockphoto.com/videos/s-synthwave-space-video-id866644926"
+    },
+    {
+      "id": 2,
+      "url": "https://media.istockphoto.com/videos/double-helix-rotating-against-a-black-background-seamless-looping-video-id1198492156"
+    },
+    {
+      "id": 3,
+      "url": "https://media.istockphoto.com/videos/beautiful-white-circles-on-surface-moving-in-seamless-3d-animation-video-id965580846a"
+    }
+  ]
+}
