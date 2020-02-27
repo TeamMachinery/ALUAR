@@ -3,19 +3,19 @@
     {
       "id": 1,
       "title": "Eighties VJ",
-      "url": "https://images.pexels.com/videos/2325178/free-video-2325178.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "url": "https://aluar.s3.eu-central-1.amazonaws.com/test_image_1.jpg",
       "video_id": 1
     },
     {
       "id": 2,
       "title": "DNA",
-      "url": "https://images.pexels.com/videos/1849001/free-video-1849001.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "url": "https://aluar.s3.eu-central-1.amazonaws.com/test_image_2.jpg",
       "video_id": 2
     },
     {
       "id": 3,
       "title": "Embossed Circles",
-      "url": "https://images.pexels.com/videos/1508628/free-video-1508628.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "url": "https://aluar.s3.eu-central-1.amazonaws.com/test_image_3.jpg",
       "video_id": 3
     }
   ],
