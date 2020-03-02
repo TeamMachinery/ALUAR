@@ -22,15 +22,15 @@
   "videos": [
     {
       "id": 1,
-      "url": "https://vod-progressive.akamaized.net/exp=1582812522~acl=%2A%2F1333914939.mp4%2A~hmac=74ac10250cdec0bc1b1d5db8bb11c96aeef209ee257d2b7f9451f2fceb44fb78/vimeo-prod-skyfire-std-us/01/2316/13/336580092/1333914939.mp4"
+      "url": "https://aluar.s3.eu-central-1.amazonaws.com/videos/test_video_1.jpg"
     },
     {
       "id": 2,
-      "url": "https://vod-progressive.akamaized.net/exp=1582812641~acl=%2A%2F1211549387.mp4%2A~hmac=f633ea5777e09fa51c428f10d848ef6825c74638a83ee9f10dcab193e6883de8/vimeo-prod-skyfire-std-us/01/2812/12/314061058/1211549387.mp4"
+      "url": "https://aluar.s3.eu-central-1.amazonaws.com/videos/test_video_2.jpg"
     },
     {
       "id": 3,
-      "url": "https://vod-progressive.akamaized.net/exp=1582812715~acl=%2A%2F1122207420.mp4%2A~hmac=1d3ff360907616f49a0bc9f6b2d945a07d12110baf4c82cf590eb031da733e2c/vimeo-prod-skyfire-std-us/01/4013/11/295068292/1122207420.mp4"
+      "url": "https://aluar.s3.eu-central-1.amazonaws.com/videos/test_video_3.jpg"
     }
   ]
 }
