@@ -22,15 +22,15 @@
   "videos": [
     {
       "id": 1,
-      "url": "https://aluar.s3.eu-central-1.amazonaws.com/videos/test_video_1.jpg"
+      "url": "https://aluar.s3.eu-central-1.amazonaws.com/videos/test_video_1.mp4"
     },
     {
       "id": 2,
-      "url": "https://aluar.s3.eu-central-1.amazonaws.com/videos/test_video_2.jpg"
+      "url": "https://aluar.s3.eu-central-1.amazonaws.com/videos/test_video_2.mp4"
     },
     {
       "id": 3,
-      "url": "https://aluar.s3.eu-central-1.amazonaws.com/videos/test_video_3.jpg"
+      "url": "https://aluar.s3.eu-central-1.amazonaws.com/videos/test_video_3.mp4"
     }
   ]
 }
